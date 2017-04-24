@@ -1,0 +1,5 @@
+var customLabel = {
+  restaurant: {
+    label: 'R'
+  },
+ 
